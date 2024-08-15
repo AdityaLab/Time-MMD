@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Time-MMD is the first multi-domain, multimodal time series dataset covering 9 primary data domains. We ensures fine-grained modality alignment, eliminates data contamination, and provides high usability. (Check [our paper](https://arxiv.org/abs/2406.08627) for more details!)
+Time-MMD is the first multi-domain, multimodal time series dataset covering 9 primary data domains. We ensures fine-grained modality alignment with text-numerical series, eliminates data contamination, and provides high usability. (Check [our paper](https://arxiv.org/abs/2406.08627) for more details!)
 
 ## Dataset Overview
 
-Time-MMD consists of 1) numerical sequences 2) LLM-summarized textual sequences. Binary timestamps `(start, end)` are occupied which enables the adapatation onto various tasks.
+Time-MMD consists of 1) numerical sequences 2) textual sequences. Binary timestamps `(start, end)` are occupied which enables the adapatation onto various tasks or demands.
 
 The structure of this repo is:
 
@@ -35,6 +35,7 @@ Here, OT represents the default target variable for prediction in each dataset. 
 <div align="center">
     <img src="https://github.com/AdityaLab/Time-MMD/blob/main/DescriptionOfOT.png" width="500">
 </div>
+
 ### Textual Data
 
 Textual data of each domain contains two csv file, one for report data and another for search data. All data are in a unified format:
