@@ -1,8 +1,8 @@
 # Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis
 
-:triangular_flag_on_post:**News** (2024.08.14)  The dataset description has been enhanced.
+:triangular_flag_on_post:**News** (2024.08)  The dataset description has been enhanced.
 
-:triangular_flag_on_post:**News** (2024.08.14)  The documentation for the library, [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib), has been largely improved. Please try it!
+:triangular_flag_on_post:**News** (2024.08)  The documentation for the library, [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib), has been largely improved. Please try it!
 
 ## Introduction
 
