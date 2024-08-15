@@ -51,8 +51,8 @@ start_date, end_date, fact, pred
 |Economy|International Trade Balance -->
 
 
-## Use Case
-You may check [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
+### Use Case
+For the multi-modal time-series forecasting task based on the Time-MMD dataset, you may check our library[MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
 
 ## Citation
 
