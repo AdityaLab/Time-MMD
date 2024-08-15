@@ -36,6 +36,8 @@ Here, OT represents the default target variable for prediction in each dataset. 
     <img src="https://github.com/AdityaLab/Time-MMD/blob/main/DescriptionOfOT.png" width="500">
 </div>
 
+For specific data sources, please refer to Appendix C of our paper.
+
 ### Textual Data
 
 Textual data of each domain contains two csv file, one for report data and another for search data. All data are in a unified format:
@@ -53,7 +55,7 @@ start_date, end_date, fact, pred
 |Climate|Drought Level|Monthly|496|1983-Present|
 |Economy|International Trade Balance -->
 
-
+For specific data sources, please refer to Appendix C of our paper.
 ### Use Case
 For the multi-modal time-series forecasting task based on the Time-MMD dataset, you may check our library[MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
 
