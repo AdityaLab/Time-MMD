@@ -1,6 +1,6 @@
 # Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis
 
-:triangular_flag_on_post:**News** (2024.08)  Time-MMD is now supporting for the imputation task. Please check Downstream_Tasks/Imputation for use case.
+:triangular_flag_on_post:**News** (2024.08)  Time-MMD is now supporting the imputation task. Please check Downstream_Tasks/Imputation for use case.
 
 :triangular_flag_on_post:**News** (2024.08)  The dataset description has been enhanced.
 
@@ -28,7 +28,16 @@ The structure of this repo is:
     - (Domain Name)
         - (Domain Name)_report.csv
         - (Domain Name)_search.csv
+-- Downstream_Tasks
+    - ShortTerm Forecasting
+    - LongTerm Forecasting
+    - Imputation
+    - Anomaly Detection
 ```
+
+Here, Downstream_Tasks is used to introduce how Time-MMD supports different downstream tasks. 
+For Short-Term and Long-Term Forecasting, please check our library [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
+we denote to support more tasks and domains in the future. Please feel free to let us know your demands.
 
 ### Numerical Data
 
@@ -67,7 +76,7 @@ Visualization of relevant report (a, left) and search (b, right) counts in Time-
 
 For specific data sources, please refer to Appendix C of our paper.
 ### Use Case
-For the multi-modal time-series forecasting task based on the Time-MMD dataset, you may check our library[MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
+For the multi-modal time-series forecasting task based on the Time-MMD dataset, you may check our library [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
 
 ## Citation
 
