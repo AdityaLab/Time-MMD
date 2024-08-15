@@ -31,6 +31,7 @@ Numerical data of each domain contains a csv file with has the following format:
 ```
 start_date, end_date, OT, (other variable 1), (other variable 2), ...
 ```
+Here, OT represents the default target variable for prediction in each dataset. Its specific meaning is as follows:
 
 ### Textual Data
 
@@ -49,6 +50,8 @@ start_date, end_date, fact, pred
 |Climate|Drought Level|Monthly|496|1983-Present|
 |Economy|International Trade Balance -->
 
+
+## Use Case
 You may check [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
 
 ## Citation
