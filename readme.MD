@@ -32,7 +32,9 @@ Numerical data of each domain contains a csv file with has the following format:
 start_date, end_date, OT, (other variable 1), (other variable 2), ...
 ```
 Here, OT represents the default target variable for prediction in each dataset. Its specific meaning is as follows:
-
+<div align="center">
+    <img src="https://github.com/AdityaLab/Time-MMD/blob/main/DescriptionOfOT.png" width="500">
+</div>
 ### Textual Data
 
 Textual data of each domain contains two csv file, one for report data and another for search data. All data are in a unified format:
