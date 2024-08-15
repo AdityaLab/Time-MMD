@@ -1,5 +1,7 @@
 # Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis
 
+:triangular_flag_on_post:**News** (2024.08)  Time-MMD is now supporting for the imputation task. Please check Downstream_Tasks/Imputation for use case.
+
 :triangular_flag_on_post:**News** (2024.08)  The dataset description has been enhanced.
 
 :triangular_flag_on_post:**News** (2024.08)  The documentation for the library, [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib), has been largely improved. Please try it!
