@@ -61,7 +61,7 @@ start_date, end_date, fact, pred
 
 Visualization of relevant report (a, left) and search (b, right) counts in Time-MMD over time is as follows:
 <div align="center">
-    <img src="https://github.com/AdityaLab/Time-MMD/blob/main/DescriptionOfOT.png" width="500">
+    <img src="https://github.com/AdityaLab/Time-MMD/blob/main/VisualizationOfText.png" width="500">
 </div>
 
 <!-- Here's a complete list of domains and corresponding properties:
