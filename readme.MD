@@ -76,7 +76,7 @@ Visualization of relevant report (a, left) and search (b, right) counts in Time-
 
 For specific data sources, please refer to Appendix C of our paper.
 ### Use Case
-For the multi-modal time-series forecasting task based on the Time-MMD dataset, you may check our library [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib) for detailed usage examples.
+For the multi-modal time-series forecasting task based on the Time-MMD dataset, you may check our library [MM-TSFlib](https://github.com/AdityaLab/MM-TSFlib). Please note that this Lib is only a first-step attempt toward the multimodal extension of TSF and does not represent the optimal solution.
 
 ## Citation
 
