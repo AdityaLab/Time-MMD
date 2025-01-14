@@ -1,10 +1,6 @@
 # Time-MMD: A New Multi-Domain Multimodal Dataset for Time Series Analysis
 
 
-:triangular_flag_on_post:**News** (2024.08)  Time-MMD is now supporting the imputation task. Please check Downstream_Tasks/Imputation for use case.
-
-:triangular_flag_on_post:**News** (2024.08)  The dataset description has been enhanced.
-
 ## Introduction
 
 Time-MMD is the first multi-domain, multimodal time series dataset covering 9 primary data domains. We ensures fine-grained modality alignment with text-numerical series, eliminates data contamination, and provides high usability. (Check [our paper](https://arxiv.org/abs/2406.08627) for more details!)
